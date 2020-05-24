@@ -1,0 +1,25 @@
+void main{
+  
+  
+  //final keyword
+  
+  final cityName='Kathmandu';
+  
+//YOu cannot change the cityName
+  
+  final String countryname='Nepal';
+  
+    //const keyword
+  
+  const PI=3.14;
+  const double g=9.8;
+  
+}
+
+class Circle{
+  
+  final color='red';
+  static const pi=3.14;
+  
+  
+}
