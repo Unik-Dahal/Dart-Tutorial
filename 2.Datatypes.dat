@@ -1,0 +1,26 @@
+void main(){
+// NUmbers:int
+  int score=23;
+  var age=17;  //THIS IS ALSO SAME AS ABOVE
+  int hexValue= 0xEADEBAEE;
+  
+  //Numbers:Double
+  double percentage =93.4;
+  var value=23.44; //THIS IS ALSO SAME AS ABOVE
+  double exponential=2.45e56;
+  
+  //Strings
+  String name = "Henry";
+  var name2="Unik";  //THIS IS ALSO SAME AS ABOVE
+    
+  
+  
+  //Boolean
+  bool isValid = true;
+  var isAlive = false;  //THIS IS ALSO SAME AS ABOVE
+ 
+  print(hexValue);
+  print(score);
+  print(age);
+  print(exponential);
+}
