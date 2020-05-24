@@ -1,0 +1,36 @@
+void main(){
+  
+  //Literals
+  
+  var isCool=true;
+  int x=2;
+  
+  
+  //Ways to define literals
+  
+  String s1='Hello';
+  String s2="World";
+  String s3='It\'s easy';
+  String s4="It's easy";
+  
+  String s5="This is a  long string. This is a sample string" 
+"of a long string in dart programming language";
+  
+  //String Interpolation
+  
+    String name ="Unik";
+    print ("My name is $name");
+  
+  print ('The number of character in String value is ${name.length}');
+  
+  
+    
+  int l =4;
+  int b= 8;
+  
+  print('The sum is ${l+b}');
+  print("THe area is ${l*b}");
+    
+  
+  
+}
