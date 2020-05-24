@@ -1,0 +1,21 @@
+/*  
+ 
+ This is a multiple line comment 
+ 
+ */
+void main(){
+  
+  //THis is my first dart code
+  print("Hello World");
+  
+  //THis is another line 
+  print("This is my first application");
+  
+  //THis is an arithematic operation
+  print(4/3);
+  
+  //Printing out boolean value
+  print(true);
+  
+  
+}
